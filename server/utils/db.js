@@ -1,3 +1,4 @@
+//file for creating mongoDB connection
 const moongose = require("mongoose");
 const { mongodb } = require("../config");
 
